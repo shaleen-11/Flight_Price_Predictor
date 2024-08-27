@@ -1,6 +1,6 @@
 # Flight_Price_Predictor
 
-> **`Note`**: Use [**google colab**](https://colab.research.google.com/drive/1cOAoQaJ-GNLSvTc6i5WU6WbrVWX-eXDT?usp=sharing) in order to view the code and interactive plotly graphs.
+> **`Note`**: Use [**google colab**](https://colab.research.google.com/drive/1-NMyMDg-yNUhNk9wypGUWcpW5F78K9Pu?usp=drive_link) in order to view the code and interactive plotly graphs.
 
 <p align="center">
   <img width="600" height="300" src="https://c.tenor.com/jWmfyhrj22cAAAAC/plane-flight.gif">
@@ -22,24 +22,6 @@ In this project, these questions will be answered:
 * [x] Which features have the most impact on predicting flight price?
 * [x] Which model is the best for predicting flight price?
 
-## Project's Table of Contents ✍️
-<details>
-  <summary>Click to expand!</summary>
-  
-1. Problem statement
-2. Import Libraries and Data
-3. Handling Missing Values
-4. Data Analysis and Visualization
-5. Outlier Detection
-6. Check for Rare Categories
-7. Categorical Variables Encoding
-8. Dataset Splitting
-9. Modeling and Parameter Optimization
-10. Feature Importance
-11. Results
-
-</details>
-
 ## Project Overview 💼
 
 Sample Visualization:
@@ -58,6 +40,3 @@ Model Evaluation:
   <img width="1200" height="400" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/true_predicted.PNG">
 </p>
 
-<p align="center">
-  <img width="1200" height="400" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/compare.PNG">
-</p>
