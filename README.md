@@ -27,16 +27,16 @@ In this project, these questions will be answered:
 Sample Visualization:
 
 <p align="center">
-  <img width="1200" height="400" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/airlines.PNG">
+  <img width="1200" height="400" src="https://github.com/shaleen-11/Flight_Price_Predictor/blob/main/Images/airlines.png">
 </p>
 
 <p align="center">
-  <img width="1200" height="400" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/airelines_price.PNG">
+  <img width="1200" height="400" src="https://github.com/shaleen-11/Flight_Price_Predictor/blob/main/Images/airelines_price.png">
 </p>
 
 Model Evaluation:
 
 <p align="center">
-  <img width="1200" height="400" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/true_predicted.PNG">
+  <img width="1200" height="400" src="https://github.com/shaleen-11/Flight_Price_Predictor/blob/main/Images/results.png">
 </p>
 
